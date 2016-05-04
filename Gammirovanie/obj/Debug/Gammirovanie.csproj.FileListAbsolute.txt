@@ -1,0 +1,9 @@
+C:\Users\Dmitrii\Documents\Проекты\Kripto\Gammirovanie\Gammirovanie\bin\Debug\Gammirovanie.exe.config
+C:\Users\Dmitrii\Documents\Проекты\Kripto\Gammirovanie\Gammirovanie\obj\Debug\Gammirovanie.csprojResolveAssemblyReference.cache
+C:\Users\Dmitrii\Documents\Проекты\Kripto\Gammirovanie\Gammirovanie\obj\Debug\Gammirovanie.Form1.resources
+C:\Users\Dmitrii\Documents\Проекты\Kripto\Gammirovanie\Gammirovanie\obj\Debug\Gammirovanie.Properties.Resources.resources
+C:\Users\Dmitrii\Documents\Проекты\Kripto\Gammirovanie\Gammirovanie\obj\Debug\Gammirovanie.csproj.GenerateResource.Cache
+C:\Users\Dmitrii\Documents\Проекты\Kripto\Gammirovanie\Gammirovanie\bin\Debug\Gammirovanie.exe
+C:\Users\Dmitrii\Documents\Проекты\Kripto\Gammirovanie\Gammirovanie\bin\Debug\Gammirovanie.pdb
+C:\Users\Dmitrii\Documents\Проекты\Kripto\Gammirovanie\Gammirovanie\obj\Debug\Gammirovanie.exe
+C:\Users\Dmitrii\Documents\Проекты\Kripto\Gammirovanie\Gammirovanie\obj\Debug\Gammirovanie.pdb
