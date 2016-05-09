@@ -1,0 +1,6 @@
+c:\users\dmitrii\documents\visual studio 2015\Projects\Electro\Electro\bin\Debug\Electro.exe.config
+c:\users\dmitrii\documents\visual studio 2015\Projects\Electro\Electro\bin\Debug\Electro.exe
+c:\users\dmitrii\documents\visual studio 2015\Projects\Electro\Electro\bin\Debug\Electro.pdb
+c:\users\dmitrii\documents\visual studio 2015\Projects\Electro\Electro\obj\Debug\Electro.csprojResolveAssemblyReference.cache
+c:\users\dmitrii\documents\visual studio 2015\Projects\Electro\Electro\obj\Debug\Electro.exe
+c:\users\dmitrii\documents\visual studio 2015\Projects\Electro\Electro\obj\Debug\Electro.pdb
